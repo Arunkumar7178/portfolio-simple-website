@@ -22,7 +22,7 @@ To view the website locally:
 
 ## How to view
 
-You can access my portfolio website by visiting [link] Feel free to explore the content and get in touch!
+You can access my portfolio website by visiting [https://arunkumar7178.github.io/portfolio-simple-website/] Feel free to explore the content and get in touch!
 
 ## Contributing
 
